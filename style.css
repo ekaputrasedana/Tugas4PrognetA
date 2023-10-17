@@ -1,0 +1,39 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+form {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+table {
+  width: 100%;
+  align-content: center;
+  font-size: large;
+  margin-top: 100px;
+  margin-left: 300px;
+  margin-bottom: 0px;
+  margin-right: 300px;
+}
+
+table td {
+  padding: 10px;
+}
+
+.col {
+  text-align: center;
+}
